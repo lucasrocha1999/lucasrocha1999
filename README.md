@@ -44,5 +44,3 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha1999&layout=compact&theme=dracula&langs_count=8"/>
 </a>
 </p>
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
