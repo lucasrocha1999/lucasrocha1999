@@ -38,4 +38,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![lucasrocha1999 github stats](https://github-readme-stats.vercel.app/api?username=lucasrocha1999&theme=dracula&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha1999&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<a href="https://github.com/GuillaumeFalourd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=lucasrocha1999&theme=dracula&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrocha1999&layout=compact&theme=dracula&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
