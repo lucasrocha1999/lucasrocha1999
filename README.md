@@ -17,7 +17,7 @@ I work well with Git, Git Flow, Docker and Linux for development and production 
 
 Able to adapt to new technologies, program languages ​​or structures / libraries.
 
-- :office_worker: I am currently working at Willbank as a full stack developer, working with ReactJS, Node.js, TypeScript, Python.
+- :office_worker: I am currently working at Willbank as a full stack developer, working with ReactJS, Node.js, TypeScript, AWS.
 - 💻 I am currently learning Terraform, AWS and Nestjs.
 - :books: Reading the Scrum Book how to do twice the work in half the time, to improve my skills in Agil.
 - 😄 I love JavasSript and TypeScript.
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Tools I work with
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
